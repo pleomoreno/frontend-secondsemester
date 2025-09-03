@@ -1,0 +1,64 @@
+
+#titulo{
+  color: green;
+  text-align: center;
+}
+
+p.promocao.outra {
+  text-align: center;
+  background-color: lightgreen;
+}
+p{
+
+}
+
+p#descricao {
+  color: blue;  
+}
+
+
+.nova{
+  color: white;
+}
+
+/* todo mundo que tem id rodape, com classe final-pagina que seja do tipo p */
+
+p.final-pagina#rodape{
+  background-color: lightgray;
+  text-align: center;
+}
+
+.curso , .novo-curso{
+  background-color: aliceblue;
+}
+
+.novo-curso{
+  color: red;
+}
+
+.curso, .novo-curso, #contato{
+  padding: 12px;
+  border: 1px solid lightgray;
+}
+
+/* .curso{
+  background-color: aliceblue;
+}
+
+.novo-curso{
+  background-color: aliceblue;
+  color: red;
+} */
+
+
+/* h1 {
+  color: green;
+}
+
+p {
+  color: blue;
+}
+
+strong {
+  color: red;
+} */
